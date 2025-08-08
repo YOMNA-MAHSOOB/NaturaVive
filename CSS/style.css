@@ -413,5 +413,5 @@ hr.main-line {
     transition: all 0.5s ease;
 }
 .delivery div a i:hover{
-transform:translateY(-100%);
+    transform:translateY(-100%);
 }
