@@ -31,7 +31,7 @@
     width: 1400px;
 }
 a i {
-    color: rgb(62, 62, 62);
+    color: rgb(125, 124, 124);
     font-size: 29px;
 }
 a i:hover{
@@ -414,5 +414,5 @@ hr.main-line {
     transition: all 0.5s ease;
 }
 .delivery div a i:hover{
-    transform:translateY(-100%);
+    transform:translateY(-60%);
 }
